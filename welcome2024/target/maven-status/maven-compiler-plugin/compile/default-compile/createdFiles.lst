@@ -1,0 +1,5 @@
+com/isw/welcome/controller/WelcomeController.class
+com/isw/welcome/WelcomeApplication.class
+com/isw/welcome/repository/WelcomeRepository.class
+com/isw/welcome/service/WelcomeService.class
+com/isw/welcome/entity/Welcome.class
